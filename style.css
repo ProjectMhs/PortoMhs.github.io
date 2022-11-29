@@ -18,7 +18,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(assets/bg.png) no-repeat;
+  background: url(assets/img2.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -100,7 +100,7 @@ header {
 }
 
 header.sticky {
-  background: #3a6cf4;
+  background: #1f4ecec2;
   padding: 10px 200px;
 }
 
